@@ -1,7 +1,8 @@
 # Tetris-interactive-game
 
+**Interactive Game written in JavaScript**
 
-Interactive Game written with JavaScript
+As an exercise to position pieces, count time, manuever pieces by using a lot of loops.
 
 To play, run: `open index.html`
 
